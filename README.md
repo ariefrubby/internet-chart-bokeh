@@ -10,6 +10,12 @@ This project visualizes internet speed test data using Bokeh. It reads data from
 - Formats the x-axis as a datetime scale.
 - Automatically adjusts the chart width.
 
+## Output
+![Screenshot 2025-02-11 223259](https://github.com/user-attachments/assets/93384c27-c541-4fdc-815c-bea5fa3feab3)
+![Screenshot 2025-02-11 223357](https://github.com/user-attachments/assets/9a9a9d62-ace1-4610-81c1-71c810bad098)
+
+
+
 ## Prerequisites
 Ensure you have the following installed:
 - Python 3.x
